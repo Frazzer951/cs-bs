@@ -5,5 +5,6 @@
 layout: home
 ---
 
-This is a test
-Main Page
+Welcome to CS-BS
+
+Checkout all the subjects and feel free to make your own pages.
