@@ -1,0 +1,20 @@
+{"0": {
+    "doc": "GDB",
+    "title": "GDB",
+    "content": "GDB Be Cool . ",
+    "url": "/subjects/Assembly/gdb/",
+    "relUrl": "/subjects/Assembly/gdb/"
+  },"1": {
+    "doc": "Assembly",
+    "title": "Assembly",
+    "content": "ASSEMBLY . ",
+    "url": "/subjects/Assembly/index/",
+    "relUrl": "/subjects/Assembly/index/"
+  },"2": {
+    "doc": "About",
+    "title": "About",
+    "content": "CS-BS is a cool site that is made for and by Computer Science Students. ",
+    "url": "/about/",
+    "relUrl": "/about/"
+  }
+}
