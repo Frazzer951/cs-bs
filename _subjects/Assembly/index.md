@@ -6,4 +6,6 @@ has_children: true
 has_toc: true
 ---
 
-ASSEMBLY
+# ASSEMBLY
+
+This Section mainly focuses on x86 Nasm Asssembly.
