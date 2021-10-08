@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   students taking CS classes to drop URL’s or other
   resources that might be helpful for other students
   to view and to hopefully pass their classes!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cs-bs" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
